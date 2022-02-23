@@ -1,0 +1,22 @@
+[System:16:24:02] Ol&#225;, logo um especialista ir&#225; lhe atender, enquanto isso, conhe&#231;a todos os nossos servi&#231;os dispon&#237;veis para voc&#234;, https://www.youtube.com/playlist?list=PLHfrOz0mk6N5HEOeVqP9YSyD85SYkvC8O 
+[System:16:24:05] Para agilizar seu atendimento esteja pr&#243;ximo ao seu produto. Aguarde mais um momento! 
+[Siano Fábio(Customer):16:24:26] Boa tarde!
+[Pedro Henrique(Agent):16:24:26] Bem vindo ao atendimento on-line da Samsung, é um prazer ter você por aqui.
+[Pedro Henrique(Agent):16:24:30] Boa tarde tudo bem? 
+[Siano Fábio(Customer):16:24:46] Ótimo. Pedro, fala com Fábio.
+[Siano Fábio(Customer):16:24:50] Preciso da especificação do parafuso que fica atras da TV para colocar em um suporte. O suporte que eu tenho está com parafusos bem maiores, gostaria de saber o tamanho correto para comprar.
+[Pedro Henrique(Agent):16:25:11] Vou informar o tamanho só um momento 
+[Pedro Henrique(Agent):16:27:13] Só mais um momento 
+[Siano Fábio(Customer):16:27:45] Perfeito, aguardando.
+[Pedro Henrique(Agent):16:28:01] Os parafusos são no padrão Vesa
+[Siano Fábio(Customer):16:28:10] Sim. Vesa.
+[Pedro Henrique(Agent):16:28:51] São de 200X2000 (mm)   C(mm)  11-13 M8
+[Siano Fábio(Customer):16:29:41] Pedro Henrique, muitíssimo obrigado pela sua resposta.
+[Pedro Henrique(Agent):16:30:37] Muito obrigado tenha uma ótima tarde e um feliz ano novo 
+[Pedro Henrique(Agent):16:30:42] Se não for incomodo, poderia avaliar o meu atendimento, por gentileza? Basta apenas apertar em finalizar e a pesquisa de avaliação aparece. Desde já agradeço se puder fazer isso por mim, sua avaliação é muito importante e irá me ajudar muito! ❤️
+
+[Pedro Henrique(Agent):16:30:46] Obrigado por acessar o atendimento on-line Samsung. Espero que você esteja muito satisfeito com o atendimento de hoje! Clique em finalizar e avalie sua experiência 😊
+
+[Pedro Henrique(Agent):16:30:52] A Samsung agradece o seu contato!  😊Caso queira anotar, o protocolo deste atendimento é: 35110972
+
+[Siano Fábio(Customer):16:30:56] Para todos nós, sem espirros ou tosse.
